@@ -42,7 +42,8 @@
                         android:layout_height="wrap_content"
                         android:layout_alignParentLeft="true"
                         android:text="Статус"
-                        android:textColor="@color/colorBlackText" />
+                        android:textColor="@color/colorBlackText"
+                        android:fontFamily="@font/comfortaa_regular"/>
 
                     <TextView
                         android:id="@+id/textView_mainTime"
@@ -50,7 +51,8 @@
                         android:layout_height="wrap_content"
                         android:layout_alignParentRight="true"
                         android:text="14:21"
-                        android:textColor="@color/colorBlackText" />
+                        android:textColor="@color/colorBlackText"
+                        android:fontFamily="@font/comfortaa_regular"/>
                 </RelativeLayout>
                 <TextView
                     android:id="@+id/textView_line1"
@@ -92,7 +94,8 @@
                             android:layout_alignParentLeft="true"
                             android:layout_alignParentBottom="true"
                             android:text="Статус"
-                            android:textColor="@color/colorBlackText" />
+                            android:textColor="@color/colorBlackText"
+                            android:fontFamily="@font/comfortaa_regular"/>
 
                         <TextView
                             android:id="@+id/textView_mainTime2"
@@ -101,7 +104,8 @@
                             android:layout_alignParentRight="true"
                             android:layout_alignParentBottom="true"
                             android:text="14:21"
-                            android:textColor="@color/colorBlackText" />
+                            android:textColor="@color/colorBlackText"
+                            android:fontFamily="@font/comfortaa_regular"/>
                     </RelativeLayout>
 
                 </LinearLayout>
@@ -146,7 +150,8 @@
                             android:layout_alignParentLeft="true"
                             android:layout_alignParentBottom="true"
                             android:text="Статус"
-                            android:textColor="@color/colorBlackText" />
+                            android:textColor="@color/colorBlackText"
+                            android:fontFamily="@font/comfortaa_regular"/>
 
                         <TextView
                             android:id="@+id/textView_mainTime3"
@@ -155,7 +160,8 @@
                             android:layout_alignParentRight="true"
                             android:layout_alignParentBottom="true"
                             android:text="14:21"
-                            android:textColor="@color/colorBlackText" />
+                            android:textColor="@color/colorBlackText"
+                            android:fontFamily="@font/comfortaa_regular"/>
                     </RelativeLayout>
 
                 </LinearLayout>
@@ -200,7 +206,8 @@
                             android:layout_alignParentLeft="true"
                             android:layout_alignParentBottom="true"
                             android:text="Статус"
-                            android:textColor="@color/colorBlackText" />
+                            android:textColor="@color/colorBlackText"
+                            android:fontFamily="@font/comfortaa_regular"/>
 
                         <TextView
                             android:id="@+id/textView_mainTime4"
@@ -209,7 +216,8 @@
                             android:layout_alignParentRight="true"
                             android:layout_alignParentBottom="true"
                             android:text="14:21"
-                            android:textColor="@color/colorBlackText" />
+                            android:textColor="@color/colorBlackText"
+                            android:fontFamily="@font/comfortaa_regular"/>
                     </RelativeLayout>
 
                 </LinearLayout>
