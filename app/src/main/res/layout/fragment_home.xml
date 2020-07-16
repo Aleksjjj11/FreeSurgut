@@ -76,11 +76,10 @@
                     android:orientation="horizontal"
                     >
 
-                    <ImageButton
-                        android:id="@+id/imageButton"
+                    <de.hdodenhof.circleimageview.CircleImageView
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        tools:src="@tools:sample/avatars" />
+                        android:src="@drawable/auto_04" />
 
                     <RelativeLayout
                         android:layout_width="match_parent"
@@ -132,11 +131,10 @@
                     android:orientation="horizontal"
                     >
 
-                    <ImageButton
-                        android:id="@+id/imageButton2"
+                    <de.hdodenhof.circleimageview.CircleImageView
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        tools:src="@tools:sample/avatars" />
+                        android:src="@drawable/auto_04" />
 
                     <RelativeLayout
                         android:layout_width="match_parent"
@@ -188,11 +186,10 @@
                     android:orientation="horizontal"
                     >
 
-                    <ImageButton
-                        android:id="@+id/imageButton3"
+                    <de.hdodenhof.circleimageview.CircleImageView
                         android:layout_width="100dp"
                         android:layout_height="100dp"
-                        tools:src="@mipmap/ic_launcher" />
+                        android:src="@drawable/auto_04" />
 
                     <RelativeLayout
                         android:layout_width="match_parent"
